@@ -1,4 +1,5 @@
-//Brute Force method 
+//change the approach from brute force to ...
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
