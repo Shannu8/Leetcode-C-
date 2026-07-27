@@ -1,3 +1,4 @@
+//returns the product of 2 largest value1-1 and value2-1 in the array
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
