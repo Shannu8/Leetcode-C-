@@ -1,3 +1,4 @@
+//Returns true if the number is a palindrome and returns false when number isn't a palindrome
 class Solution {
 public:
     bool isPalindrome(int x) {
