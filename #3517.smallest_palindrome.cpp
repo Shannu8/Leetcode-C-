@@ -1,4 +1,4 @@
-
+//Lexiographically Smallest palindome made from the string s (palindrome)
 class Solution {
 public:
     string smallestPalindrome(string s) {
