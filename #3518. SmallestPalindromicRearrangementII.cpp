@@ -1,3 +1,5 @@
+
+//HARD - return the k'th lexiographically smallest palindromic string
 class Solution {
 public:
 
