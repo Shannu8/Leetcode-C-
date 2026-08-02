@@ -1,3 +1,7 @@
+//Code to Check the winner by optimal answers. 
+
+//similar to Predict the Winner - #486
+
 class Solution {
 public:
     int t[502][502];
