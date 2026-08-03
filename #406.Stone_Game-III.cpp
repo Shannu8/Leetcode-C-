@@ -1,4 +1,4 @@
-//check it out
+//It's similar to Stone_game.cpp same concepts used(recursion + memoization)
 
 class Solution {
 public:
