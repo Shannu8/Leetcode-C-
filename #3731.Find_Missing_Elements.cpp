@@ -1,3 +1,5 @@
+// FInd the all missing numbers from the smallest element to largest element
+
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
