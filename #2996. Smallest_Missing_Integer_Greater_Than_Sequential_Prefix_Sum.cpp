@@ -1,4 +1,6 @@
-//
+// Find the sum of the longest sequential prefix,
+// then return the smallest integer greater than or equal to
+// this sum that does not already exist in the array.
 
 class Solution {
 public:
