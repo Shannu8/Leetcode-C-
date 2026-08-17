@@ -1,3 +1,8 @@
+//Alice break down the array into two equal or unequal non-zero part and from that the
+// smallest part is choosen and again the array is broken and it repeats until the 
+//array has only 1 element left. and return the sum of the choosen element
+
+
 class Solution {
 public:
     int t[501][501];
