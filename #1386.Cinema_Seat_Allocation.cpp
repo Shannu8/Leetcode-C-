@@ -1,3 +1,6 @@
+//returns the max seat allocation for continous 4 seats from 'n' rows
+
+
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
