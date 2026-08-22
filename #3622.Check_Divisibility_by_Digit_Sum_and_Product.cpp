@@ -1,3 +1,5 @@
+// returns 1 if n is divisible by the sum of the digit's product and digit's sum
+
 class Solution {
 public:
     bool checkDivisibility(int n) {
