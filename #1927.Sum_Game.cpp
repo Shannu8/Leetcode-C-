@@ -1,5 +1,6 @@
 //marked Medium (difficulty)
-
+//if(leftsidesum == rightsidesum) return 0 --> Bob won
+//else Alice Won
 class Solution {
 public:
     bool sumGame(string num) {
