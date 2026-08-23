@@ -1,3 +1,5 @@
+//marked Medium (difficulty)
+
 class Solution {
 public:
     bool sumGame(string num) {
