@@ -1,3 +1,4 @@
+//This problem was marked Easy
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
