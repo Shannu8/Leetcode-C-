@@ -1,4 +1,5 @@
 //the Minimum and Maximum Number of Nodes Between Critical Points
+
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
