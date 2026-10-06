@@ -7,7 +7,7 @@ public:
             for (int j = 0; j < digits.size(); j++) {
                 for (int k = 0; k < digits.size(); k++) {
 
-                    // Cannot use the same array position twice
+
                     if (i == j || j == k || i == k)
                         continue;
 
