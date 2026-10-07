@@ -1,4 +1,4 @@
-//change the approach from brute force to ...
+//change the approach 
 
 class Solution {
 public:
