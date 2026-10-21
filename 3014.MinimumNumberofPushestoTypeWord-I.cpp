@@ -1,5 +1,4 @@
 //minimum number of pushes needed for the particular string (same typescript as nokia)
-//recall it interesting problem
 class Solution {
 public:
     int minimumPushes(string word) {
